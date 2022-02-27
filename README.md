@@ -14,7 +14,7 @@ You can easily compute all metrics in just a few lines of code. \
 You first import the class ```SeqEval``` and create an instance of it:
 
 ```python
-from seq-eval import SeqEval
+from seq_eval import SeqEval
 evaluator = SeqEval()
 ```
 
