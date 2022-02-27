@@ -5,7 +5,7 @@ Sequence Evaluator (SeqEval) is a python package that computes metrics useful fo
 ## Installation
 
 ```python
-pip install seq-eval
+pip install sequence-evaluate
 ```
 
 ## Usage
