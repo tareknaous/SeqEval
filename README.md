@@ -1,6 +1,6 @@
 # SeqEval: A python package for evaluating Seq2Seq models
 
-Sequence Evaluator (SeqEval) is a python package that computes metrics useful for evaluating Seq2Seq models for many tasks such as: machine translation, dialogue response generation, and text summarization. There already exists many packages to compute those metrics, but Seq2Eval puts them all in one place!
+Sequence Evaluate (SeqEval) is a python package that computes metrics useful for evaluating Seq2Seq models on multiple tasks such as: machine translation, dialogue response generation, and text summarization. There already exists many packages to compute those metrics, but SeqEval puts them all in one place, and allows you to compute them in two lines of code!
 
 ## Installation
 
@@ -10,7 +10,6 @@ pip install sequence-evaluate
 
 ## Usage
 
-You can easily compute all metrics in just a few lines of code. \
 You first import the class ```SeqEval``` and create an instance of it:
 
 ```python
